@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saicharan0521/Leetcode-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/saicharan0521/Leetcode-Submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/saicharan0521/Leetcode-Submissions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saicharan0521/Leetcode-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/saicharan0521/Leetcode-Submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## String
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/saicharan0521/Leetcode-Submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
